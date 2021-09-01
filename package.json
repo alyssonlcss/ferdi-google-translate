@@ -1,0 +1,13 @@
+{
+  "id": "GTranslate",
+  "name": "Google Translate",
+  "version": "1.0.0",
+  "description": "Google Translate",
+  "main": "index.js",
+  "author": "Benoît Verhaeghe <badetitou@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://translate.google.com.br/?sl=auto&tl=en&op=translate&hl=pt-BR/",
+    "hasNotificationSound": false
+  }
+}
