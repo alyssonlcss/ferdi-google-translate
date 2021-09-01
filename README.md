@@ -1,4 +1,4 @@
-# Google Translate for Franz
+# Google Translate for Ferdi
 
 An unofficial [Ferdi](https://getferdi.com/) recipe for [Google Translate](https://translate.google.com/).
 
