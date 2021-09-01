@@ -2,6 +2,8 @@
 
 An unofficial [Ferdi](https://getferdi.com/) recipe for [Google Translate](https://translate.google.com/).
 
+# Adapted from: {https://github.com/badetitou/franz-google-translate.git}
+
 ## Installing
 
 ### Linux
