@@ -2,7 +2,7 @@
 
 An unofficial [Ferdi](https://getferdi.com/) recipe for [Google Translate](https://translate.google.com/).
 
-<p> Adapted from: (https://github.com/badetitou/franz-google-translate.git/) </p>
+Adapted from: [Benoît Verhaeghe](https://github.com/badetitou/franz-google-translate.git/)
 
 ## Installing
 
